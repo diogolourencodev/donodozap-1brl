@@ -38,8 +38,8 @@ Contas encontradas: ['João Silva', 'Maria Santos']
   1: Maria Santos
 
 💡 Para gerar uma ordem de pagamento, use:
-   python script.py 11999999999 <ID>
-   Exemplo: python script.py 11999999999 0
+   python donodozap.py 11999999999 <ID>
+   Exemplo: python donodozap.py 11999999999 0
 ```
 
 ### 2. Consulta com Geração de Ordem PIX
